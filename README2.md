@@ -49,7 +49,7 @@ CSS
 
 ## Contact
 - GitHub [Røyken VGS](https://github.com/roykenvgs)
-- Epost [Røyken VGS](test@gmail.com)
+- Epost [Røyken VGS](mailto:test@gmail.com)
 
 
 ## Happy coding!
